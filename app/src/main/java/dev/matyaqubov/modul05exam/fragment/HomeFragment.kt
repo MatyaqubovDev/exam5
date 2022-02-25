@@ -33,6 +33,7 @@ class HomeFragment : Fragment() {
         recycler_View.layoutManager=GridLayoutManager(context,2)
         refreshAdapter(getAllFeeds())
         return view
+        //asdjalksjdlkas
     }
 
     private fun refreshAdapter(feeds: ArrayList<Feed>) {
