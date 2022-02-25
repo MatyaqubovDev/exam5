@@ -18,12 +18,14 @@
         <entry key="app/src/main/res/layout/fragment_saved_listings.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/fragment_search.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/item_category_view.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/item_chat.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_collections.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/item_feed.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/item_feed_category.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/item_feed_rectaurants.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/item_feed_story.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/item_restaurants_view.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/item_search.xml" value="0.1" />
         <entry key="app/src/main/res/menu/bottom_nov.xml" value="0.20416666666666666" />
       </map>
     </option>
